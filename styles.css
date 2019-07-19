@@ -1,0 +1,215 @@
+body {
+    background-image: url(https://i.kym-cdn.com/entries/icons/mobile/000/021/862/lucioano.jpg);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+
+.meme-starter-kit {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(0,0,0,.5);
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 30px;
+    position: sticky;
+    size: cover;
+    position: center;
+
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    color: red;
+    font-weight: bolder;
+}
+
+.content-wrapper {
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(0,0,0,.5);
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 30px;
+    position: sticky;
+    size: cover;
+    position: center;
+
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    transform: rotate(230deg);
+    color: red;
+    font-weight: bolder;
+}
+
+.testing-text-cover {
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    filter: hue-rotate(180deg) saturate(2);
+
+    font-size: 1.1em;
+    background-color: rgba(0,0,0,.5);
+    margin-top: -20px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+
+    color: rgb(0, 122, 122);
+    font-weight: bolder;
+
+    transform: rotate(80deg);
+    text-align: center;
+}
+
+.testing-text-cover2 {
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    filter: hue-rotate(90deg) saturate(2);
+
+    font-size: 1.1em;
+    background-color: rgba(0,0,0,.5);
+    margin-top: -20px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+
+    color: blue;
+    font-weight: bolder;
+
+    text-align: center;
+    transform: rotate(270deg);
+
+}
+
+.testing-text-cover3 {
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    color: rgb(179, 255, 0);
+    filter: hue-rotate(270deg) saturate(3) brightness(1);
+    transform: rotate(-230deg);
+
+    font-size: 1.1em;
+    background-color: rgba(0,0,0,.5);
+    margin-top: -20px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    font-weight: bolder;
+
+    text-align: center;
+}
+
+.testing-text-cover4 {
+    background-image: url(https://i.kym-cdn.com/entries/icons/original/000/026/589/sans_thumbnail.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    color: rgb(0, 247, 255);
+    filter: hue-rotate(270deg) saturate(3) brightness(1);
+    transform: rotate(300deg);
+
+    font-size: 1.1em;
+    background-color: rgba(0,0,0,.5);
+    margin-top: -20px;
+
+    margin-left: 500px;
+    margin-right: 200px;
+    
+    font-weight: bolder;
+
+    text-align: center;
+}
+
+.testing-text-cover5 {
+    background-image: url(./IMBLUE.png);
+    background-attachment: fixed;
+    background-position: sticky;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+
+    color: red;
+
+    font-size: 1.1em;
+    background-color: rgba(0,0,0,.5);
+    margin-top: 20px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    font-weight: bolder;
+
+    text-align: center;
+}
+
+.testing-text-cover5 a{
+   text-decoration: none;
+   transition: ease-in-out .5s;
+   font-weight: bolder;
+}
+
+.testing-text-cover5 a:visited{
+    color: blue
+ }
+
+.testing-text-cover5 a:hover{
+    font-size: 1.2em;
+    transition: ease-in-out .5s;
+    text-decoration: underline;
+ }
+
+.first-text {
+    padding-top: 30px;
+}
+
+.last-text {
+    padding-bottom: 30px;
+}
+
+.blue {
+    color: blue;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+
+.top-section {
+    align-content: center;
+    align-items: center;
+}
+
+.top-section img {
+    margin-left: 45vw;
+}
